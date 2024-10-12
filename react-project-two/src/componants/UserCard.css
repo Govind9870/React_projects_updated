@@ -1,0 +1,24 @@
+.user-container{
+    background-color: rgb(73, 146, 122);
+    padding: 25px;
+    margin: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.1rem;
+    justify-content: center;
+}
+
+#user-title{
+    font-size: 1.7rem;
+}
+
+#user-image{
+    height: 195px;
+    width: 165px;
+    border-radius: 50%;
+}
+
+#user-desc{
+    font-size: 1.2rem;
+}
